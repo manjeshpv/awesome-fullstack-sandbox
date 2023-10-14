@@ -6,7 +6,7 @@
 | 2  | ORM                                       | Hasura                           |
 | 3  | Data Query Language                       | GraphQL                          |
 | 4  | Primary DB                                | Postgresql                       |
-| 5  | Storage                                   | Amazon S3                        |
+| 5  | Storage                                   | [Minio](https://github.com/minio/minio) / Amazon S3                        |
 | 6  | DB Migrations                             | Liquibase                        |
 | 7  | Language                                  | JS                               |
 | 8  | API Standards                             | REST API                         |
@@ -43,7 +43,7 @@
 | 2  | CI/CD Automation                          | Github Actions                   |
 | 3  | HTTP Proxy                                | Nginx                            |
 | 4  | Container Management                      | Docker                           |
-| 5  | Cloud Computing                           | AWS EC2 & ALB                    |
+| 5  | Cloud Computing                           | Linode                           |
 |    |                                           |                                  |
 |    | Developer Tools                           |                                  |
 | ID | Purpose                                   | Technology/Provider              |
