@@ -1,5 +1,5 @@
 # awesome-sandbox
-Cloud Native Docker Sandbox for Indian Startups
+Full stack - Cloud Native Dockerized Sandbox for Indian Startups
 
 
 ### Background
