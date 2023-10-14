@@ -4,7 +4,8 @@ Cloud Native Docker Sandbox for Indian Startups
 
 ### Background
 - What is [Software Sandbox](https://www.techopedia.com/definition/27681/sandbox-software-testing)
-- 
+- [Introduction](https://github.com/manjeshpv/awesome-sandbox/blob/main/docs/readme.md)
+- [Goals](https://github.com/manjeshpv/awesome-sandbox/blob/main/docs/goals.md)
 
 ### Child Projects
 - https://github.com/cjelivaas/nestjs-pino-distributed-tracing-mono
