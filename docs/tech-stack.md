@@ -10,10 +10,10 @@
 | 6  | DB Migrations                             | Liquibase                        |
 | 7  | Language                                  | JS                               |
 | 8  | API Standards                             | REST API                         |
-| 9  | API Docs                                  | Swagger                          |
+| 9  | API Docs                                  | Swagger, OpenAPI3                          |
 | 11 | Error/Crash Reporting                     | Sentry Error                     |
 | 12 | APM & Distributed Tracing                 | Sentry APM                       |
-| 13 | Config Management, Env                    | Dotenv                           |
+| 13 | Config Management, Env                    | Dotenv-Vault                           |
 | 14 | Logging                                   | Pino Logger & ELK                |
 | 15 | Cron Jobs                                 | [Cron](http://cron.org/) job org |
 |    |                                           |                                  |
