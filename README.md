@@ -20,7 +20,7 @@ Cloud Native Docker Sandbox for Indian Startups
 - For Startup Security Advisors & Pen Testers
 
 ### Sponsors
-- Elivaas: [Job Openings](https://www.instahyre.com/jobs-at-elivaas/)
+- Elivaas: [Job Openings](https://www.instahyre.com/jobs-at-elivaas/) | [Follow on Github](https://github.com/elivaasd)
 
 
 ### Contributors
