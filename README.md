@@ -2,7 +2,7 @@
 
 [WhatsApp Channel](https://whatsapp.com/channel/0029VaBiBTP4NVibK7ejAs14)
 
-Low Code Full stack - Cloud Native Dockerized Sandbox for Indian Startups
+Low Code Full stack - Cloud Native Dockerized Sandbox for Indian Startups with CI/CD
 
 
 ### Background
