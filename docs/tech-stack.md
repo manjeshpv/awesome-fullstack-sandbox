@@ -26,7 +26,7 @@
 | 5  | Estimation(Backlog, Sprint, Story Points) | Jira Agile                       |
 | 6  | Methodology                               | 12Factor App                     |
 | 7  | Software Development Approach             | Cloud Native                     |
-| 8  | Application Architecture                  | Federated Gateway                |
+| 8  | Application Architecture                  | [Federated Gateway](https://www.linkedin.com/posts/sahnlam_you-loved-my-post-on-stack-overflows-monolith-activity-7038743002374180864-BzDq)                |
 | 9  | Branching Strategy                        | Git Flow                         |
 | 10 | Commit Messages                           | Semantic                         |
 | 11 | Learning Roadmap                          | [roadmap.sh](http://roadmap.sh/) |
