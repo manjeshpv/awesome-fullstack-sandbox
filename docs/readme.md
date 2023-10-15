@@ -1,6 +1,6 @@
 # Awesome Fullstack Sandbox
 
-[QA Sandbox](caprover/qa.md) | [Staging Standbox](caprover/staging.md) | [Production](caprover/production.md)
+[QA Sandbox](caprover/qa.md) | [Staging Standbox](caprover/staging.md) | [Production](caprover/production.md) | [Goals](goals/readme.md) | [Technology Stack](tech-stack.md)
 
 **Introduction to Sandbox Environments**
 
