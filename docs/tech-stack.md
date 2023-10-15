@@ -2,7 +2,7 @@
 
 | ID | Purpose                                   | Technology                       |
 | -- | ----------------------------------------- | -------------------------------- |
-| 1  | Framework                                 | NestJS                           |
+| 1  | Framework                                 | [NestJS](nestjs#readme)                           |
 | 2  | ORM                                       | Hasura                           |
 | 3  | Data Query Language                       | GraphQL                          |
 | 4  | Primary DB                                | Postgresql                       |
