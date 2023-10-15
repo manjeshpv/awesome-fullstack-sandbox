@@ -5,7 +5,7 @@
 | 1  | Framework                                 | [NestJS](nestjs#readme)                           |
 | 2  | ORM                                       | Hasura                           |
 | 3  | Data Query Language                       | GraphQL                          |
-| 4  | Primary DB                                | Postgresql                       |
+| 4  | Primary DB                                | [Postgresql](system/postgresql.md)                       |
 | 5  | Storage                                   | [Minio](https://github.com/minio/minio) / Amazon S3                        |
 | 6  | DB Migrations                             | Liquibase                        |
 | 7  | Language                                  | JS                               |
