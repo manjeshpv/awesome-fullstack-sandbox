@@ -44,6 +44,7 @@
 | 3  | HTTP Proxy                                | Nginx                            |
 | 4  | Container Management                      | Docker                           |
 | 5  | Cloud Computing                           | Linode                           |
+| 6  | DB Management                             | Bytebase                         |
 |    |                                           |                                  |
 |    | Developer Tools                           |                                  |
 | ID | Purpose                                   | Technology/Provider              |
