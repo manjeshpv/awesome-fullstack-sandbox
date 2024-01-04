@@ -2,7 +2,7 @@
 
 | ID | Purpose                                   | Technology                       |
 | -- | ----------------------------------------- | -------------------------------- |
-| 1  | Framework                                 | [NestJS](nestjs#readme)                           |
+| 1  | Framework                                 | [NestJS](nestjs#readme)          |
 | 2  | ORM                                       | Hasura                           |
 | 3  | Data Query Language                       | GraphQL                          |
 | 4  | Primary DB                                | [Postgresql](system/postgresql.md)                       |
@@ -10,12 +10,13 @@
 | 6  | DB Migrations                             | Liquibase                        |
 | 7  | Language                                  | JS                               |
 | 8  | API Standards                             | REST API                         |
-| 9  | API Docs                                  | Swagger, OpenAPI3                          |
+| 9  | API Docs                                  | Swagger, OpenAPI3                |
 | 11 | Error/Crash Reporting                     | Sentry Error                     |
 | 12 | APM & Distributed Tracing                 | Sentry APM                       |
-| 13 | Config Management, Env                    | Dotenv-Vault                           |
+| 13 | Config Management, Env                    | Dotenv-Vault                     |
 | 14 | Logging                                   | Pino Logger & ELK                |
 | 15 | Cron Jobs                                 | [Cron](http://cron.org/) job org |
+| 16 | Data Platform                             | [Cube-js](https://cube.dev/)     |
 |    |                                           |                                  |
 |    | SDLC & Project Management                 |                                  |
 | ID | Purpose                                   | Technology/Provider              |
