@@ -14,15 +14,15 @@
 | 11 | Error/Crash Reporting                     | Sentry Error                     |
 | 12 | APM & Distributed Tracing                 | Sentry APM                       |
 | 13 | Config Management, Env                    | Dotenv-Vault                     |
-| 14 | Logging                                   | Pino Logger & ELK                |
-| 15 | Cron Jobs                                 | [Cron](http://cron.org/) job org |
+| 14 | Logging                                   | Pino Logger & OpenObserve                |
+| 15 | Cron Jobs                                 | Hasura cron |
 | 16 | Data Platform                             | [Cube-js](https://cube.dev/)     |
 |    |                                           |                                  |
 |    | SDLC & Project Management                 |                                  |
 | ID | Purpose                                   | Technology/Provider              |
 | 1  | Design Documentation                      | HLD, LLD, Contract               |
 | 2  | Test Driven Development                   | Jest/Chai/Coveralls)             |
-| 3  | Code Quality                              | ESLint, EditorConfig             |
+| 3  | Code Quality                              | SonarQube community, ESLint, EditorConfig, husky             |
 | 4  | Documentation                             | Confluence                       |
 | 5  | Estimation(Backlog, Sprint, Story Points) | Jira Agile                       |
 | 6  | Methodology                               | 12Factor App                     |
