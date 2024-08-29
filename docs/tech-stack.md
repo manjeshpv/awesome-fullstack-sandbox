@@ -10,6 +10,7 @@
 | 6  | DB Migrations                             | Liquibase                        |
 | 7  | Language                                  | JS                               |
 | 8  | API Standards                             | REST API                         |
+| 7  | Auth & ACL                                | Auth0, Okta, Google Workspace    |
 | 9  | API Docs                                  | Swagger, OpenAPI3                |
 | 11 | Error/Crash Reporting                     | Sentry Error                     |
 | 12 | APM & Distributed Tracing                 | Sentry APM                       |
